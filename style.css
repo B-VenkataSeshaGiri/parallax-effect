@@ -1,0 +1,59 @@
+.parallax
+{
+    background-image: url("./food.jpg");
+    min-height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#texting
+{
+    padding: 50px;
+    margin-top: 0px;
+    background-color: white;
+}
+body
+{
+    margin: 0px;
+    padding: 0px;
+}
+#second
+{
+    background-image: url("./Travel-Images.jpg");
+    min-height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#third
+{
+    background-image: url("./656347.jpg");
+    min-height: 800px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+}
+.ab
+{
+    background-image: url("./97548.jpg");
+    min-height: 800px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-width: 800px;
+}
+#text
+{
+    color: white;
+    text-align: center;
+    margin-top: 300px;
+    font-size : 100px;
+    text-align: center;
+    margin-left: 450px;
+    display: inline-block;
+}
